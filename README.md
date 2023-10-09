@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AbsattarovDev
 - 👀 I’m interested in #web #ai #alorithm #frontend  
 - 🌱 I’m currently learning Frontend development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Telegram/Linkedin: @AbsattarovDev E-mail: absattarovdev@gmail.com
+- 💞️ I’m looking to collaborate on Startups
+- 📫 How to reach me: Telegram: [Telegram](https://www.t.me/absattarovdev/) | [Linkedin](https://www.linkedin.com/in/absattarovdev/) |E-mail: absattarovdev@gmail.com
 
 <!---
 AbsattarovDev/AbsattarovDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
