@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on Startups
 - 📫 How to reach me:
-- [Telegram](https://www.t.me/absattarovdev/) | [Linkedin](https://www.linkedin.com/in/absattarovdev/) | [Twitter](https://www.twitter.com/in/absattarovdev/)
+- [Website](https://absattarov.uz/) | [Telegram](https://www.t.me/absattarovdev/) | [Linkedin](https://www.linkedin.com/in/absattarovdev/) | [Twitter](https://www.twitter.com/in/absattarovdev/)
 - E-mail: absattarovdev@gmail.com
 
 <!---
