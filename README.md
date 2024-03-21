@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @AbsattarovDev
-- 👀 I’m interested in #web #ai #algorithm #frontend #javascript
-- 🌱 I’m currently learning Frontend development
-- 💞️ I’m looking to collaborate on Startups
+<h1 align="center">👋 Hi, I’m @AbsattarovDev </h1>
 - 📫 How to reach me:
-- [Website](https://absattarov.uz/) | [Telegram](https://www.t.me/absattarovdev/) | [Linkedin](https://www.linkedin.com/in/absattarovdev/) | [Twitter](https://www.twitter.com/absattarovdev/)
+- <a href="https://absattarov.uz/">Website</a> | [Telegram](https://www.t.me/absattarovdev/) | [Linkedin](https://www.linkedin.com/in/absattarovdev/) | [Twitter](https://www.twitter.com/absattarovdev/)
 - E-mail: absattarovdev@gmail.com
 
 <!---
