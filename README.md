@@ -1,6 +1,8 @@
-<h1 align="center">👋 Hi, I’m @AbsattarovDev </h1>
+<h1 align="center"> Hi, I’m Absattarov Mukhriddin! </h1>
 
-<!---
-AbsattarovDev/AbsattarovDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Absattarov
+
+I know these: `HTML` `CSS` `SCSS` `Tailwind`
+
+I'm learning:
+`Javascript`
