@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I’m Absattarov Mukhriddin! </h1>
+<h1 align="center"> Hi, I’m Mukhriddin! </h1>
 
 I know: `HTML` `CSS` `SCSS` `Tailwind`
 
