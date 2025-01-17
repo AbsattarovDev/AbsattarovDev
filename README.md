@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=absattarovdev)
+![](https://komarev.com/ghpvc/?username=absattarovdev&color=02fa44)
 
 <h1 align="center"> Hi, I’m Mukhriddin! </h1>
 
