@@ -3,6 +3,6 @@
 <h1 align="center"> Hi, I’m Mukhriddin! </h1>
 
 I know: 
-<code><img src="https://www.flaticon.com/free-icon/html_1051328?term=html&page=1&position=4&origin=search&related_id=1051328"></code> `CSS` `SCSS` `Tailwind`
+<code><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></code> `CSS` `SCSS` `Tailwind`
 
 I'm learning: `Javascript`
