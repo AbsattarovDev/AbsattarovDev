@@ -2,6 +2,7 @@
 
 <h1 align="center"> Hi, I’m Mukhriddin! </h1>
 
-I know: `[HTML](https://vecta.io/symbols/25/web-technologies/37/html5)` `CSS` `SCSS` `Tailwind`
+I know: 
+<code> [HTML](https://vecta.io/symbols/25/web-technologies/37/html5) </code> `CSS` `SCSS` `Tailwind`
 
 I'm learning: `Javascript`
