@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi, I’m Mukhriddin! </h1>
 
-I know: 
-<code><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></code> `CSS` `SCSS` `Tailwind`
+
+<code><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="20px"></code> `CSS` `SCSS` `Tailwind`
 
 I'm learning: `Javascript`
