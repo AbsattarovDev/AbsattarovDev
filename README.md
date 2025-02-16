@@ -3,6 +3,6 @@
 <h1 align="center"> Hi, I’m Mukhriddin! </h1>
 
 I know: 
-<code> [HTML](https://vecta.io/symbols/25/web-technologies/37/html5) </code> `CSS` `SCSS` `Tailwind`
+<code><img src="https://vecta.io/symbols/25/web-technologies/37/html5"></code> `CSS` `SCSS` `Tailwind`
 
 I'm learning: `Javascript`
